@@ -10,7 +10,7 @@ In particular, the training and testing data are feature scaled based on "name",
 
 For model selection, I used Logistic Regression, Random Forest Classification, and Gradient Boosting Classification.
 
-The best result is based on Logistic Regression, which is 79.904% accurracy and ranked 1699 out of 9605 teams in this Kaggle Competition
+The best result is based on Logistic Regression, which is 79.904% accurracy and ranked 1699 out of 9605 teams in this Kaggle Competition.
 
 
 
