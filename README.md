@@ -6,7 +6,7 @@ Link: https://www.kaggle.com/c/titanic
 
 In this challenge, I used many machine learning tools to predict which passengers survived the Titanic tragedy. 
 
-In particular, the training and testing data are feature scaled based on "name", "ticket class", "sex", "age", "number of siblings and spouses aboard the Titanic", "number of parents and children aboard the Titanic", "ticket number", "passenger fare", "cabin number", "port of embarkation".
+In particular, the training and testing data are feature scaled based on "name", "ticket class", "sex", "age", "number of siblings and spouses aboard the Titanic", "number of parents and children aboard the Titanic", "ticket number", "passenger fare", "cabin number", and "port of embarkation".
 
 For model selection, I used Logistic Regression, Random Forest Classification, and Gradient Boosting Classification.
 
