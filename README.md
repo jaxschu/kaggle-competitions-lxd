@@ -13,4 +13,11 @@ For model selection, I used Logistic Regression, Random Forest Classification, a
 The best result is based on Logistic Regression, which is 79.904% accurracy and ranked 1699 out of 9605 teams in this Kaggle Competition.
 
 
+### 2. Home Credit Default Risk
+
+Link: https://www.kaggle.com/c/home-credit-default-risk
+
+In this challenge, we used the credit data from Home Credit to predict if a client is able to repay the loan. 
+
+
 
