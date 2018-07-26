@@ -19,5 +19,9 @@ Link: https://www.kaggle.com/c/home-credit-default-risk
 
 In this challenge, we used the credit data from Home Credit to predict if a client is able to repay the loan. 
 
+The dataset contains around 300,000 instances with more than 100 features, including data from credit bureau, previous application, current application, monthly balances, installments payments, etc. 
+
+The model we used is LightGBM, ensembled with other models in public kernels. Currently, we achieved an AUC of 0.800, which is ranked top 8.8% on the public leaderboard. 
+
 
 
